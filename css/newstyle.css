@@ -163,8 +163,8 @@ nav .menu {
 nav .menu div {
   background: var(--clr-dark);
   border-radius: 50%;
-  width: 200vw;
-  height: 200vw;
+  width: 300vw;
+  height: 300vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
