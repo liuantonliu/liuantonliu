@@ -315,7 +315,7 @@ nav .menu div div ul li a:hover {
 }
 
 .welcome #particles-js .text span {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   display: block;
 }
 
